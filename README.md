@@ -6,7 +6,7 @@ As a part of my undergraduate research project, I monitored changes in the A549 
 **EGF signalling** is involved in the regulation of cell proliferation, differentiation, division, survival, and cancer development.  EGFRs are tyrosine kinase receptors that activate multiple downstream signalling pathways such as MAPK, (PI3K)/AKT, PKC and Janus kinase/signal transducers and activators of transcription (JAK/STAT) signalling pathways [1] which results in increased cell proliferation, promotes cell survival and inhibits apoptosis [2]. Upregulation of EGFRs often occurs in different cancers e.g. non-small-cell lung cancer, metastatic colorectal cancer, glioblastoma, head and neck cancer, pancreatic cancer, and breast cancer [2].
 
 **Ptychography** provides a unique opportunity to explore in-depth single-cell morphology and behaviour of each cell within a well. Therefore, I wanted to take this project further and explore the effect of EGF on cell morphology features using machine learning. 
-git config --list | grep "core"
+
 **Enjoy! :^)**
 
 ### Data Summary:
