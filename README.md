@@ -63,17 +63,6 @@ The code processes cell morphology data, performs data cleaning, builds machine 
 - **ROC Curve**: The ROC curve showed the classifier's ability to differentiate between treated and untreated cells.
 - **Evaluation Metrics**: The model's accuracy, precision, recall, and other metrics were reported for evaluating the classifier's prediction performance.
 
-## Dependencies
-The following Python libraries are required to run the analysis:
-- `numpy`
-- `pandas`
-- `matplotlib`
-- `scikit-learn`
-
-You can install the dependencies using the command:
-```bash
-pip install numpy pandas matplotlib scikit-learn
-```
 
 ## How to Run the Code
 1. Ensure that the `cell_morphology_data.xlsx` file is present in the working directory.
