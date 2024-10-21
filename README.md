@@ -53,10 +53,6 @@ The code processes cell morphology data, performs data cleaning, builds machine 
     - All results, including cross-validation scores, best hyperparameters, confusion matrix, classification report, and ROC AUC score, are saved into a text file (`model_evaluation.txt`).
     - Plots (model comparison and ROC curve) are saved as image files in the `results` folder.
 
-### Key Functions:
-- `remove_nans_from_dict`: Cleans the data by removing NaN values from the dataset.
-- `dict_shape`: Returns the shape of the dataset after cleaning.
-
 ### Results
 - **Model Performance**: The KNN classifier was optimized through hyperparameter tuning, achieving the best performance among the models.
 - **Best Parameters**: The optimal number of neighbors (`n_neighbors`) for KNN was selected.
