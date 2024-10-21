@@ -72,6 +72,12 @@ The code processes cell morphology data, performs data cleaning, builds machine 
 ## Conclusion
 This project showed how machine learning can be applied to analyse cellular responses to EGF stimulation based on the morphological data generated with ptychography. From different ML models, the KNN classifier showed the best performance and was further optimised through hyperparameter tuning. The optimised KNN model successfully predicts the cell’s treatment condition (SFM vs. EGF), achieving a cross-validation score of 0.7727 and an overall ROC AUC score of 0.712, which indicates an acceptable model’s performance.
 
+## Contact
+If you have any questions, feel free to reach out! 
+- **Email**: [alicja.ziajowska@gmail.com](mailto: alicja.ziajowska@gmail.com) 
+- **GitHub**: [a-ziaj](https://github.com/a-ziaj) 
+- **LinkedIn**: [Alicja Ziajowska]( https://www.linkedin.com/in/alicja-ziajowska-b8a977180/)
+
 ## References
 1.	Wee, P., & Wang, Z. (2017). Epidermal growth factor receptor cell proliferation signaling pathways. Cancers, 9(5), 52. https://doi.org/10.3390/cancers9050052 
 2.	Wei, Q., Costanzi, S., Balasubramanian, R., Gao, Z.-G., & Jacobson, K. A. (2013). A2B adenosine receptor blockade inhibits growth of prostate cancer cells. Purinergic Signalling, 9(2), 271–280. https://doi.org/10.1007/s11302-012-9350-3 
