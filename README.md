@@ -1,7 +1,9 @@
 # README: Cell Data Treatment Classification based on the morphological features
 
 ## Overview
-As a part of my undergraduate research project, I monitored changes in the A549 human lung cancer epithelial cell line for 48 hours post-stimulation with different GPCR agonists and **Epidermal Growth Factor (EGF)** using a novel microscopy technique called ptychography. This method analyses diffraction patterns to produce detailed images of live cells, capturing their size, shape, and behaviour over time.
+This project is an extension of my undergraduate research project, where I monitored changes in the A549 human lung cancer epithelial cell line for 48 hours post-stimulation with different GPCR agonists and **Epidermal Growth Factor (EGF)** using a novel microscopy technique called ptychography that analyses diffraction patterns to produce detailed images of live cells, capturing their size, shape, and behaviour over time. 
+
+**The aim** of this project was to develop an ML model that will be able to differentiate between cells treated with EGF and control based on single cell morphology.
 
 **EGF signalling** is involved in the regulation of cell proliferation, differentiation, division, survival, and cancer development.  EGFRs are tyrosine kinase receptors that activate multiple downstream signalling pathways such as MAPK, (PI3K)/AKT, PKC and Janus kinase/signal transducers and activators of transcription (JAK/STAT) signalling pathways [1] which results in increased cell proliferation, promotes cell survival and inhibits apoptosis [2]. Upregulation of EGFRs often occurs in different cancers e.g. non-small-cell lung cancer, metastatic colorectal cancer, glioblastoma, head and neck cancer, pancreatic cancer, and breast cancer [2].
 
